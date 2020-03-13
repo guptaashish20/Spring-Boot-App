@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ashishguriyakumar
+Build-Jdk: 9.0.1
+Implementation-Title: Course API 2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/course-api-2
+Created-By: Maven Integration for Eclipse
+

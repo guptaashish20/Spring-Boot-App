@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 04 21:04:49 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-016b-2320-ee0a-0000075b8eb0 
+on database directory memory:/Users/ashishguriyakumar/Desktop/Coding/Spring Boot/workspace/spring-boot/course-api-data/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4f8e5cde 
+Loaded from file:/Users/ashishguriyakumar/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.1+11
+user.dir=/Users/ashishguriyakumar/Desktop/Coding/Spring Boot/workspace/spring-boot/course-api-data
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
